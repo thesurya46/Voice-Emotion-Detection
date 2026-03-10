@@ -7,7 +7,7 @@ A machine learning web application that detects human emotion from short voice a
 - **Audio Processing:** Uses `librosa` to extract Mel-Frequency Cepstral Coefficients (MFCCs) from `.wav` and `.mp3` audio files.
 - **Clean UI:** Simple and interactive web interface built with Streamlit.
 
-## Dependencies
+## Dependencies :
 
 The project requires **Python 3.12** or lower because TensorFlow does not currently support Python 3.13 or 3.14.
 
