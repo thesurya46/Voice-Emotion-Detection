@@ -1,4 +1,4 @@
-# Voice Emotion Detection 🎙️
+# Voice Emotion Detection :🎙️
 
 A machine learning web application that detects human emotion from short voice audio clips. The app uses a trained Long Short-Term Memory (LSTM) network via Keras and is deployed locally using Streamlit.
 
